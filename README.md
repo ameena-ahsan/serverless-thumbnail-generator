@@ -1,7 +1,5 @@
 # serverless-thumbnail-generator
 Serverless image thumbnail generator on AWS using S3, Lambda (Python, Pillow) and CloudFront.
-# serverless-thumbnail-generator
-
 A serverless image-processing pipeline on AWS: upload an image to S3, and Lambda automatically creates a thumbnail, which is served securely through CloudFront.
 
 ## Overview
