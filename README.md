@@ -93,3 +93,6 @@ The Lambda code is in [lambda_function.py](lambda_function.py).
 
 ### 11. Thumbnail Served via CloudFront
 ![Thumbnail via CloudFront](screenshots/11-thumbnail-via-cloudfront.png)
+
+## Cleanup
+After testing, all resources (CloudFront distribution, S3 buckets, Lambda function and layer) were deleted to avoid charges.
